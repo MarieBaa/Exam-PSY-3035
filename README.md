@@ -1,7 +1,7 @@
 # Exam-PSY-3035
-This Marie Bøe Aaberg's submission for the PSY-3035 exam during Autumn 2026 at UiT in Tromsø, Norway. It measures weekly averages of personal sleep habits and sleep health, as well as the duration of the sleep and time spent in bed. This is done through various figures and graphs.
+This Marie Bøe Aaberg's submission for the PSY-3035 exam during Autumn 2026 at UiT in Tromsø, Norway. It measures weekly averages of personal sleep habits and sleep health, as well as the duration of the sleep and time spent in bed. This is analyzed through various figures and graphs.
 
-"Exam.ipynb" contains the full code, text, and figures. This is the original and full file that should be the main document for use.
+"Exam.ipynb" contains the full code, text, and figures. This is the original and full file that should be the main document for use. Other documents may contain copying mistakes.
 
 "Code Only" contains only the code in a readme file. This is for viewer ease when reviewing code. Figures are not attached.
 
